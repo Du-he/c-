@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\15032\Desktop\c\迷宫\源.c(49,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\15032\Desktop\c\迷宫\源.c(51,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Project2.vcxproj -> C:\Users\15032\Desktop\c\迷宫\x64\Debug\Project2.exe
