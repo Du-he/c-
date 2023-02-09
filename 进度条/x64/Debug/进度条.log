@@ -1,0 +1,9 @@
+﻿  进度条.cpp
+C:\Users\15032\Desktop\c\进度条\进度条.cpp(41,17): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\15032\Desktop\c\进度条\进度条.cpp(63,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15032\Desktop\c\进度条\进度条.cpp(67,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\15032\Desktop\c\进度条\进度条.cpp(84,12): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+C:\Users\15032\Desktop\c\进度条\进度条.cpp(82,14): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15032\Desktop\c\进度条\进度条.cpp(111,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15032\Desktop\c\进度条\进度条.cpp(167,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  进度条.vcxproj -> C:\Users\15032\Desktop\c\进度条\x64\Debug\进度条.exe
