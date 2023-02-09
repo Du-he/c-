@@ -1,0 +1,6 @@
+﻿  ConsoleApplication15.cpp
+C:\Users\15032\Desktop\c\ConsoleApplication15\ConsoleApplication15.cpp(30,36): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\15032\Desktop\c\ConsoleApplication15\ConsoleApplication15.cpp(30,45): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\15032\Desktop\c\ConsoleApplication15\ConsoleApplication15.cpp(55,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\15032\Desktop\c\ConsoleApplication15\ConsoleApplication15.cpp(93,10): warning C4778: “printf”: 格式字符串“%”未终止
+  ConsoleApplication15.vcxproj -> C:\Users\15032\Desktop\c\ConsoleApplication15\x64\Debug\ConsoleApplication15.exe
